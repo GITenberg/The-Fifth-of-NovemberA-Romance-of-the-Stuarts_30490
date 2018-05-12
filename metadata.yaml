@@ -1,0 +1,33 @@
+_repo: The-Fifth-of-NovemberA-Romance-of-the-Stuarts_30490
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Scribner, Frank Kimball
+    alias: Scribner, F. Kimball
+    birthdate: 1866
+    deathdate: 1935
+    gutenberg_agent_id: '34643'
+    url: http://www.gutenberg.org/2009/agents/34643
+  - agent_name: Bentley, Charles S.
+    gutenberg_agent_id: '34642'
+    url: http://www.gutenberg.org/2009/agents/34642
+description: ''
+gutenberg_issued: '2009-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30490'
+  lccn: '98001108'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gunpowder Plot, 1605 -- Fiction'
+- !lcc 'PS'
+title: 'The Fifth of November
+
+  A Romance of the Stuarts'
+url: http://www.gutenberg.org/ebooks/30490
